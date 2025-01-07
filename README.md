@@ -20,3 +20,8 @@ Writing good, clean code is about more than whether it “works” (produces the
 - In VS Code, break each prompt into modular components (“functions”) that can be combined into the original prompt (“module”).
 - Do code review on the modularized prompts. Include things of interest, surprises, and potential opportunities for improvement. Refactor and add comments to the code where appropriate
 - Pair program through the [prompting challenges](prompting-challenges/) provided, following the driver/navigator approach to write pseudocode and draft prompts for each challenge. **Don't “run” your prompts with an LLM!** You're just whiteboarding. 📝
+
+
+----
+
+Note: The solutions we used draw heavily on methodology from this Medium article: https://medium.com/the-modern-scientist/best-prompt-techniques-for-best-llm-responses-24d2ff4f6bca

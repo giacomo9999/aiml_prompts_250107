@@ -10,7 +10,7 @@ I want to help people plan vacation travels that are relaxing, fun, and ecologic
 #####
 
 # OBJECTIVE # 
-Allow the user to input a travel destination, a paryy size, and a departure date. Find a flight to that destination and a return flight one week later. Locate an eco-friendly hotel at the destination and discover how much it costs. For each day at the destination, select one fun touristy eco-friendly thing to do. Where relevant, locate a car-rental agency with walking distance of the hotel and discover its rates.
+Allow the user to input a travel destination, a party size, and a departure date. Find a flight to that destination and a return flight one week later. Locate an eco-friendly hotel at the destination and discover how much it costs. For each day at the destination, select one fun touristy eco-friendly thing to do. Where relevant, locate a car-rental agency with walking distance of the hotel and discover its rates.
 
 #####
 
